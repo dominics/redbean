@@ -1,3 +1,7 @@
+# Local configuration #
+#######################
+testing/config/test.ini
+
 # Compiled source #
 ###################
 *.com
